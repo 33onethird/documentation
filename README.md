@@ -1,6 +1,6 @@
 Malware detection in Android APKs through machine learning 
 ===
-*In cooperation with CERT.at and the Guardian Project*
+*In cooperation with Aaron Kaplan (from CERT.at) and Hans Christoph Steiner (from the Guardian Project)*
 
 Our project heavily involves a conference paper from 2014 titled [DREBIN: Effective and Explainable Detection of Android Malware in Your Pocket](https://www.tu-braunschweig.de/Medien-DB/sec/pubs/2014-ndss.pdf). We focus on recreating a similar situation, but adjusted for todays state-of-the-art software and test 
 the effectiveness of the papers program DREBIN with modern mal- and benignware.
